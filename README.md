@@ -5,7 +5,11 @@ The **"DZHACK EVENT"** was orgnaized on the 9th of MAY 2015.  The event was desi
 2. WORKSHOPS: a space where local and international experts could prepare and expose practical workshops that provide participants with opportunities to see demonstrations and exploits security flaws of a variant complexity and in real time. 
 3. CHALLENGE: This is a competition designed to test the ability of hacking teams. The challenge of the event is of type Jeopardy CTF (Capture the Flag).
 
-## links about the event:
+## Brochure about the event
+
+()[]
+
+## Links about the event:
 
 - The web site: is down now but you can find it here: https://web.archive.org/web/20150913013307/https://dz-hackevent.elit.dz/en/
 - Twitter: https://twitter.com/dzhackevent

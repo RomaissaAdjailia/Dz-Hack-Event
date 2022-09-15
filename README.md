@@ -7,8 +7,7 @@ The **"DZHACK EVENT"** was orgnaized on the 9th of MAY 2015.  The event was desi
 
 ## Brochure about the event
 
-()[]
-
+See the Brochure [here](/Dz-HackEvent.pdf)
 ## Links about the event:
 
 - The web site: is down now but you can find it here: https://web.archive.org/web/20150913013307/https://dz-hackevent.elit.dz/en/
